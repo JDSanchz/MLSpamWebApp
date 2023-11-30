@@ -1,5 +1,6 @@
 gunicorn
 Flask
+TensorRT
 tensorflow
 pandas
 numpy
